@@ -1,0 +1,18 @@
+body{
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    background: #f4f4f4;
+    border-style: 20px;
+}
+.main{
+    text-align: center;
+    margin-top: 2px;
+    border-style: 30px black;
+    border-radius: 2px;
+}
+
+.category{
+    margin-top: 3px;
+    padding-left: px;
+    border-style: solid black 5px;
+}
